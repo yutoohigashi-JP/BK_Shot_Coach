@@ -1,0 +1,6 @@
+train: /Users/yutoohigashi/Documents/GitHub/BK_Shot_Coach/dataset/images
+val: /Users/yutoohigashi/Documents/GitHub/BK_Shot_Coach/dataset/images
+test: /Users/yutoohigashi/Documents/GitHub/BK_Shot_Coach/dataset/images
+
+nc: 1
+names: ['basketball']
